@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MarlinaB
 - 👀 I’m interested in Programming
-- 🌱 I’m currently pursuing MSc.Statistics
+- 🌱 Completed Masters in Statistics
+  
 
 <!---
 MarlinaB/MarlinaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
